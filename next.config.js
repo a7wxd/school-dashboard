@@ -16,14 +16,3 @@ const nextConfig = {
 };
 
 module.exports = nextConfig;
-```
-
-## `postcss.config.js`
-
-```js
-module.exports = {
-  plugins: {
-    tailwindcss: {},
-    autoprefixer: {},
-  },
-};
